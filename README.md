@@ -16,4 +16,4 @@
 - Должна быть поддержка горизонтальной и вертикальной ориентации
 
 ## Demo
-[Посмотреть результат](https://gitlab.com/ilyadark1/testtask_foodsoul/-/blob/main/Demo.MP4?ref_type=heads)
+[Посмотреть результат](https://github.com/IlyaShpilko/TestTask_FoodSoul/blob/main/Demo.MP4)
