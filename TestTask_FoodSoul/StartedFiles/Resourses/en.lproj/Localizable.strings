@@ -1,0 +1,70 @@
+/* 
+  Localizable.strings
+  TestProject
+
+  Created by Ilya Shpilko on 8/3/24.
+  
+*/
+
+// MARK: - String
+"main_title" = "меню";
+
+"delivery" = "Доставка";
+
+"pickup" = "Самовывоз";
+
+"please_provide_delivery_address" = "Укажите адрес доставки";
+
+"in_develop" = "В разработке";
+
+"in_develop_message" = "В настоящее время функционал разрабатывается";
+
+"ok" = "Ок";
+
+"plus" = "+";
+
+"minus" = "-";
+
+"menu" = "Меню";
+
+"gramm" = "Грамм";
+
+"ruble" = "Рубль";
+
+"roll_or_pizza_in_present" = "ролл или пицца в подарок!";
+
+"popular_filter" = "Популярное";
+
+"japanese_food_filter" = "Японская кухня";
+
+"favorite_filter" = "Избранное";
+
+"we_wecommend_filter" = "Мы рекомендуем";
+
+"not_found_favorite_filter" = "По фильтру 'Избранное' нечего не найдено";
+
+"test_recipe_title" = "Тамагочи";
+
+"test_recipe_description" = "Тигровая креветка, сыр, Креметте, огурец, омлет Тамаго, рис Calrose, водоросли нори голд, кунжут, кисло-сладкий соус, унаги соус.";
+
+"test_additional_info_1" = "ХИТ😍";
+
+"test_additional_info_2" = "Новинка😘";
+
+"what_are_you_search" = "Что ищем?👀";
+
+// MARK: - Image
+"left_arrow_system" = "chevron.right";
+
+"heart_system" = "heart.fill";
+
+"search_system" = "magnifyingglass";
+
+"info_system" = "info.circle";
+
+"first_promotion" = "firstPromotion";
+
+"sort" = "sort";
+
+// MARK: - Cells
+"filter_cell" = "FilterCollectionViewCollectionViewCell";
